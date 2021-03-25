@@ -34,7 +34,7 @@ function createCard(apiResult){
       <img class="card-img-top product-item" src="${result.image}" alt="">
       <div class="card-title">
         <br>
-        <h3 class="mb-0" style="text-color: red"><b>${result.title}<b></h3>
+        <h5 class="mb-0" style="text-color: red"><b>${result.title}<b></h3>
         <hr>
         <p class="mb-0"><b>${result.price}<b>$</p>
       </div>
